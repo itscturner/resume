@@ -1,7 +1,7 @@
 ---
 ---
 
-# Bruce Wayne
+# Casey Turner
 
 <span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/example](https://github.com/example)
@@ -13,7 +13,7 @@
 
 ## Experience
 
-**Machine Learning Engineer Intern**
+**DevOps Engineer**
   : **Slow Feet Technology**
   : **Jul 2021 - Present**
 
