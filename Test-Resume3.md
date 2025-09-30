@@ -3,7 +3,7 @@
 
 # Casey Turner
 
-<span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
+<span class="iconify" data-icon="charm:person"></span> [cturn.dev](https://cturn.dev/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/example](https://github.com/example)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+1) 123-456-7890](https://wa.me/11234567890)
 
@@ -11,10 +11,18 @@
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/example](https://linkedin.com/in/example/)
   : <span class="iconify" data-icon="tabler:mail"></span> [email@example.com](mailto:mail@example.com)
 
+Website: cturn.dev
+
+GitHub: github.com/itscturner
+
+LinkedIn: linkedin.com/in/caseyrturner
+
+Email: ct@email.com
+
 ## Experience
 
-**DevOps Engineer**
-  : **Slow Feet Technology**
+**Site Reliability Engineer**
+  : **DPG Solutions**
   : **Jul 2021 - Present**
 
 - Devised a new food-agnostic formulation for fine-grained cross-ingredient meal cooking and subsumed the recent popular works into the proposed scheme
@@ -22,8 +30,8 @@
 - Developed a pan for meal cooking which is benefiting the group members' research work
 
 
-**Reseach Intern**
-  : **Paddling University**
+**Linux System Administrator**
+  : **ALKU**
   : **Aug 2020 - Present**
 
 - Designed an efficient method for mapo tofu quality estimation via thermometer
@@ -31,8 +39,8 @@
 - Outperformed SOTA methods while cooking much more efficient in experiments on popular tofu
 
 
-**Research Assistant**
-  : **Huangdu Institute of Technology**
+**System Administrator**
+  : **Lockheed Martin**
   : **Mar 2020 - Jun 2020**
 
 - Proposed a novel framework consisting of a spoon and a pair of chopsticks for eating mapo toufu
@@ -41,8 +49,8 @@
 - Outperformed baselines and existed methods substantially in terms of diversity, novelty and coherence
 
 
-**Reseach Intern**
-  : **Paddling University**
+**Cyber Systems Operations**
+  : **United States Air Force**
   : **Jul 2018 - Aug 2018**
 
 - Designed two sandwiches consisting of breads and meat of two traditional bacon cheese burgers to make use of unused ingredients
@@ -51,7 +59,7 @@
 
 ## Education
 
-**M.S. in Computer Science**
+**B.S. in Information Technology**
   : **Sep 2021 - Jan 2023**
 
 University of Charles River
